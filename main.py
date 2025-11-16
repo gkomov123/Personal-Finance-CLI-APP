@@ -98,6 +98,11 @@ def plot_transactions(df):
     plt.grid(True)
     plt.show()
 
+
+# TODO remove transaction function
+def transaction_remove(df):
+    pass
+
 def main():
     while True:
         print('\n1. Add a new Transaction')
