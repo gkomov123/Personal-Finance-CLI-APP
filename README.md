@@ -23,7 +23,7 @@ To run:
 
 Ideas: 
 
-- For now i want to add a remove transaction option
+- For now i want to add a remove transaction option, also fix the whole structure because right now the class is just a namespace and it's consisted of only classmethods
 
 Bugs: 
 
